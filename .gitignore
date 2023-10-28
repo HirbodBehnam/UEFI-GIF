@@ -3,3 +3,4 @@ frames/
 *.o
 *.efi
 *.a
+embdedded_file.h
